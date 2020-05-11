@@ -1,5 +1,7 @@
-#include <iostream>
 #include "ZadKcpp.h"
+#include <iostream>
+#include <string>
+
 
 using namespace std;
 

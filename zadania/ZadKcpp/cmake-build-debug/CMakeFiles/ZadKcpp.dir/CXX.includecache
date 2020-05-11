@@ -6,14 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/Users/sergeykapshuchenko/Desktop/c++/Cpp-lab/zadania/ZadKcpp/ZadKcpp.cpp
-iostream
--
-string
--
-ZadKcpp.h
-/Users/sergeykapshuchenko/Desktop/c++/Cpp-lab/zadania/ZadKcpp/ZadKcpp.h
-
 /Users/sergeykapshuchenko/Desktop/c++/Cpp-lab/zadania/ZadKcpp/ZadKcpp.h
 string
 -
@@ -25,8 +17,10 @@ fstream
 -
 
 /Users/sergeykapshuchenko/Desktop/c++/Cpp-lab/zadania/ZadKcpp/main.cpp
+ZadKcpp.h
+/Users/sergeykapshuchenko/Desktop/c++/Cpp-lab/zadania/ZadKcpp/ZadKcpp.h
 iostream
 -
-ZadKcpp.cpp
-/Users/sergeykapshuchenko/Desktop/c++/Cpp-lab/zadania/ZadKcpp/ZadKcpp.cpp
+string
+-
 

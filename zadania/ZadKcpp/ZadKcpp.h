@@ -12,7 +12,6 @@
 
 using namespace std;
 
-int myArray[] = {10, 12, 8, 2, 44, 5, 0, 10, 33};
 
 class ZadKcpp {
 private:
@@ -30,10 +29,9 @@ private:
 
     int sum;
 
-    char test[6] = "test1";
+    static char test[6];
 
-    string names[3] = {"GreatBritain", "Ukraine", "Poland"};
-
+    static string names[3];
     string s;
 
     string str;
@@ -52,6 +50,8 @@ public:
     ZadKcpp(int n) {
         value = n;
     }
+
+    static int myArray[9];
 
     void mainExample(int argc, char *argv[]);
 
@@ -102,4 +102,4 @@ public:
     void Switch();
 };
 
-#endif ZADKCPP_ZADKCPP_H
+#endif

@@ -2,7 +2,14 @@
 #include <string>
 #include "ZadKcpp.h"
 
+
 using namespace std;
+
+string ZadKcpp::names[3] = {"GreatBritain", "Ukraine", "Poland"};
+
+int ZadKcpp::myArray[9] = {10, 12, 8, 2, 44, 5, 0, 10, 33};
+
+char ZadKcpp::test[6] = "test1";
 
 void ZadKcpp::first() {
     cout << "First function is called" << endl;
