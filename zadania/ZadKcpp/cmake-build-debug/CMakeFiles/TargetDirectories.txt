@@ -1,0 +1,3 @@
+/Users/sergeykapshuchenko/Desktop/c++/Cpp-lab/zadania/ZadKcpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sergeykapshuchenko/Desktop/c++/Cpp-lab/zadania/ZadKcpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sergeykapshuchenko/Desktop/c++/Cpp-lab/zadania/ZadKcpp/cmake-build-debug/CMakeFiles/ZadKcpp.dir

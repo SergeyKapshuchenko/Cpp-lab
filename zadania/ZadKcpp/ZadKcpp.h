@@ -2,8 +2,8 @@
 // Created by Сергей Капшученко on 03.05.2020.
 //
 
-#ifndef ZADKCPP_ZADANIA_H
-#define ZADKCPP_ZADANIA_H
+#ifndef ZADKCPP_ZADKCPP_H
+#define ZADKCPP_ZADKCPP_H
 
 #include <string>
 #include <cstdio>
@@ -102,4 +102,4 @@ public:
     void Switch();
 };
 
-#endif //ZADKCPP_ZADANIA_H
+#endif ZADKCPP_ZADKCPP_H
