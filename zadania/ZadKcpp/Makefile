@@ -6,3 +6,6 @@ main.o: main.cpp
 
 ZadKcpp.o: ZadKcpp.cpp
 	g++ -c ZadKcpp.cpp -o ZadKcpp.o
+clean:
+	rm -rf *.o
+	rm zadanie10.txt 
